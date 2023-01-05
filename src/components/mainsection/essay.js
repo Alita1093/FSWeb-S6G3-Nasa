@@ -1,6 +1,7 @@
 import React from "react";
 import EssayMain from "./essayMain";
 import EssayUst from "./essayUst";
+import "./essay.css";
 
 const Essay = (props) => {
   const { veri } = props;

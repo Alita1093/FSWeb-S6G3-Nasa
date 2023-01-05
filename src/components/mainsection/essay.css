@@ -1,13 +1,29 @@
-.essay-header {
+.essayTek {
+  width: 1280px;
+  margin: 0 auto;
+  background-color: rgba(28, 7, 97, 0.55);
+  padding: 0 0;
+}
+.essayMain {
   display: flex;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
-.essay-header {
-  display: inline-block;
-}
-.uzayfoto {
-  width: 500px;
+.uzayFoto {
+  padding: 10px;
+  width: 820px;
 }
 .explanation {
-  width: 500px;
+  text-align: center;
+  vertical-align: middle;
+  font-family: sans-serif;
+  line-height: 160%;
+}
+.title {
+  text-align: center;
+}
+.date {
+  text-align: center;
+  font-weight: lighter;
+  font-style: italic;
 }

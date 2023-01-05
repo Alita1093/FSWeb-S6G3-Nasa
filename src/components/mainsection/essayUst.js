@@ -1,4 +1,5 @@
 import React from "react";
+import "./essay.css";
 
 const EssayUst = (props) => {
   const { title, date } = props;
