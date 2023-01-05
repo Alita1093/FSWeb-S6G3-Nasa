@@ -1,0 +1,13 @@
+.essay-header {
+  display: flex;
+  text-align: center;
+}
+.essay-header {
+  display: inline-block;
+}
+.uzayfoto {
+  width: 500px;
+}
+.explanation {
+  width: 500px;
+}
